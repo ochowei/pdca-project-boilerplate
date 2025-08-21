@@ -1,3 +1,5 @@
+## 版本: 1.0.0
+
 ## 操作指引
 - P: 寫 plan.md 與 journal-cycle
 - D: 在 dev-log 裡面寫日誌 與 journal-cycle
